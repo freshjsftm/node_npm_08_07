@@ -3,4 +3,6 @@ class MyMath{
   static  sub = (a,b) => a-b;
 }
 
-exports.MyMath = MyMath;
+//exports.MyMath = MyMath;
+
+export default MyMath;
